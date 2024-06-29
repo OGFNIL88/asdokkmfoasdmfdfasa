@@ -1,0 +1,11 @@
+{
+	"title": "Project X",
+	"executable": "FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe",
+	"productid": "62e95478d7614e28a1ed71b882a6b18bs",
+	"sandboxid": "6c834f583ccc4198809efca6e0f8a2c8",
+	"deploymentid": "17f6f67ca25c4cc19cb39545c0fabcc4",
+	"requested_splash": "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit": "false",
+	"hide_bootstrapper": "false",
+	"hide_gui": "false"
+}
